@@ -1,4 +1,4 @@
-<h1 align="center">🏋️ Aarogya Mitra</h1>
+<h1 align="center">Aarogya Mitra</h1>
 
 <p align="center">A 10-minute guided home-workout app for Android, with exercise timers, rest breaks and progress tracking.</p>
 
@@ -8,13 +8,13 @@
   <img src="https://img.shields.io/badge/UI-XML%20%2B%20ViewBinding-orange?style=flat-square" />
 </p>
 
-## ✨ Features
+## Features
 
 - A guided routine of bodyweight exercises (Jumping Jacks, High Knees, Squats, Side Leg Raise, Russian Twist and more), each with an illustration.
 - A `CountDownTimer`-driven **rest → exercise** cycle with a circular progress bar.
 - **Voice cues** with Android `TextToSpeech` that announce the next exercise.
 
-## 🏗️ Structure
+## Structure
 
 | File | Role |
 | --- | --- |
@@ -23,7 +23,7 @@
 | `ExerciseModel.kt` | Exercise data model (id, name, image, selected / completed) |
 | `Constant.kt` | Default exercise list |
 
-## 🚀 Run
+## Run
 
 Open the project in Android Studio and run it on an emulator or device.
 
